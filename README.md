@@ -1,4 +1,5 @@
 # RailsでWeb APIを作成する方法とメリット🤔💭 のソースコード
+https://qiita.com/digitter/items/53f83ce50036b2773d55
 
 - API
 >https://qiita.com/digitter/items/53f83ce50036b2773d55
