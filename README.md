@@ -4,11 +4,6 @@ https://qiita.com/digitter/items/53f83ce50036b2773d55
 - API
 >https://qiita.com/digitter/items/53f83ce50036b2773d55
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
 * Ruby version
     2.6.3
 
